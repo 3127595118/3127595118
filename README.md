@@ -9,15 +9,6 @@
 <p>&nbsp;&nbsp;大家好，我是江辞</p>
 
 
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/litefen/fen-plugin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=fen-plugin&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
-<a href="https://github.com/litefen/litefen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=litefen&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
-</div>
-<br>
-
 ## 🧰 常用的工具:
 &emsp;&emsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -57,22 +48,6 @@
 <!-- END_SECTION:blog -->
   
 </td>
-    
-# ✏️ 江辞的博客
-
-
-<td valign="top">
-  
-### 🌟 <a href="https://blog.litefen.com/" target="_blank">other</a>
-
-<!-- START_SECTION:douban -->
-
-* <a href='https://blog.litefen.com/all/011.html' target='_blank'>透明背景GIF表情包制作</a> - 2022-01-27
-
-* <a href='https://blog.litefen.com/all/ps2022.html' target='_blank'>修改Photoshop启动图-2022</a> - 2022-05-03
-
-* <a href='https://blog.litefen.com/all/pan.html' target='_blank'>基于Alist+onedrive搭建的个人网盘</a> - 2022-05-16
-<!-- END_SECTION:douban -->
   
 </td> 
 </tr>
